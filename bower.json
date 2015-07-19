@@ -1,0 +1,27 @@
+{
+  "name": "react-youtube-preview",
+  "version": "0.0.1",
+  "homepage": "https://github.com/stevenw/react-youtube-preview",
+  "authors": [
+    "StevenW <me@stevenw.us>"
+  ],
+  "description": "This ReactJS component retrieves & displays a preview screen shot for http://www.youtube.com videos in lieu of loading the embedded player until the user clicks the preview.",
+  "main": "react-youtube-preview.js",
+  "keywords": [
+    "react",
+    "reactjs",
+    "youtube",
+    "preview"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "react": ">= 0.13.*"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
